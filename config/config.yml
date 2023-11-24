@@ -1,0 +1,4 @@
+url: http://yandex.ru
+requests:
+  amount: 1000
+  per_second: 100
